@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+#table {
+width:90%;
+border-top:1px solid #C0C0C0;
+border-right:1px solid #C0C0C0;
+border-color: #C0C0C0;
+margin:1em auto ;
+border-collapse:collapse;
+}
+#table td {
+color:#678197;
+border-color: #C0C0C0;
+border-bottom:1px solid #C0C0C0;
+border-left:1px solid #C0C0C0;
+padding:.3em 1em;
+text-align:center;
+font-family: #FFC266;
+}
+#table tr
+{
+
+	font-size: 12pt;
+	background: #F4F4F4;
+	
+	color: #382b31;
+
+}
+#table th
+{
+	background: #FFD699;
+	color:#000000;
+}
